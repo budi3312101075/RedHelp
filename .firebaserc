@@ -1,8 +1,5 @@
 {
   "projects": {
-    "default": "redhelp-5103",
-    "RedHelp": "redhelp-5103"
-  },
-  "targets": {},
-  "etags": {}
+    "default": "redhelp-ee07b"
+  }
 }
