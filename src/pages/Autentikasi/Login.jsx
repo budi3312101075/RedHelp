@@ -20,6 +20,7 @@ const Login = () => {
   }
 
   return (
+    // update
     <div className="h-screen flex">
       <Navbar position="fixed hidden" />
       <div className="flex w-full lg:w-1/2 justify-center items-center bg-white dark:bg-accent space-y-8">
